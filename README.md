@@ -1,7 +1,7 @@
 # Profile
 <div>
 
-<img align="right" height=150 padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://media.licdn.com/dms/image/C4D03AQHMHpXD-uO2kA/profile-displayphoto-shrink_800_800/0/1658674310573?e=1719446400&v=beta&t=nGbUFw9SQ-VtkoZ_cHAQFSNw8GQja8joqrZIqN4YYI4">
+<img align="right" height=150 padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://wallup.net/wp-content/uploads/2018/09/26/659171-sci-fi-futuristic-city-cities-art-artwork.jpg">
 
 <table>
   <tr>
