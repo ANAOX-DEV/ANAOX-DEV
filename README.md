@@ -1,7 +1,7 @@
 # Profile
 <div>
 
-<img align="right" height=150 padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://wallup.net/wp-content/uploads/2018/09/26/659171-sci-fi-futuristic-city-cities-art-artwork.jpg">
+<img align="right" height=150 padding="0" alt="Imagem de capa contendo um lago semi congelado com montanhas ao fundo" src="https://images.hdqwalls.com/wallpapers/city-futuristic-ny.jpg">
 
 <table>
   <tr>
